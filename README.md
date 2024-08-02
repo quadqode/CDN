@@ -19,4 +19,4 @@ This repository provides a JavaScript file to embed Instagram posts with customi
     ```html
     <script username="dharambirharyana" border-width="2px" border-radius="15px" border-color="#ff0000" src="https://cdn.jsdelivr.net/gh/quadqode/embed@main/embed-insta.js"></script>
 
-You can define these custom attribute anywhere on the page ex- <div> or <meta> or any other tag.
+You can define these custom attributes anywhere on the page, for example: `<div>`, `<meta>`, or any other tag.
