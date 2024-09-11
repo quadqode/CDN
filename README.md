@@ -20,7 +20,7 @@ A Script file to implement smooth so-slow auto-scrolling on your webpage only wh
 
 2. **Define Custom Scroll Speed**
    You can define custom attributes in any HTML tag to control scroll speed. It sets the scroll speed to a ratio of the viewport height per frame.\
-   12<=`scrollSpeedPercent`<∞ & by default value is 12.
+   12<=`quadqode-auto-scroll`<∞ & by default value is 12.
 
     Example:
 
